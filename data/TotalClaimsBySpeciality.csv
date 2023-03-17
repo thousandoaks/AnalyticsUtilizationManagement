@@ -1,0 +1,191 @@
+,specialty_description,total_claim_count_millions,total_day_supply_millions,total_drug_cost_millions
+0,Internal Medicine,386.0,16340.0,22983.0
+1,Family Practice,361.0,14967.0,18254.0
+2,Nurse Practitioner,78.0,2873.0,6402.0
+3,Cardiology,67.0,3401.0,4039.0
+4,Psychiatry,41.0,1307.0,4191.0
+5,Physician Assistant,40.0,1493.0,3020.0
+6,General Practice,30.0,1046.0,1425.0
+7,Ophthalmology,24.0,816.0,2135.0
+8,Neurology,19.0,696.0,5087.0
+9,Nephrology,14.0,575.0,1825.0
+10,Pulmonary Disease,12.0,409.0,2369.0
+11,Urology,12.0,498.0,977.0
+12,Endocrinology,12.0,625.0,2287.0
+13,Emergency Medicine,12.0,326.0,490.0
+14,Rheumatology,11.0,440.0,2457.0
+15,Geriatric Medicine,11.0,342.0,564.0
+16,Gastroenterology,10.0,357.0,3099.0
+17,Dermatology,6.0,139.0,694.0
+18,Dentist,6.0,46.0,41.0
+19,Physical Medicine and Rehabilitation,6.0,172.0,486.0
+20,Orthopedic Surgery,6.0,112.0,225.0
+21,Hematology/Oncology,5.0,179.0,3467.0
+22,Psychiatry & Neurology,4.0,127.0,412.0
+23,Infectious Disease,4.0,115.0,1782.0
+24,Interventional Pain Management,4.0,120.0,348.0
+25,Anesthesiology,4.0,128.0,367.0
+26,Optometry,4.0,135.0,414.0
+27,Otolaryngology,4.0,101.0,152.0
+28,General Surgery,4.0,103.0,238.0
+29,Obstetrics/Gynecology,4.0,150.0,363.0
+30,Podiatry,3.0,62.0,136.0
+31,Pain Management,3.0,87.0,261.0
+32,Pediatric Medicine,2.0,75.0,196.0
+33,Certified Clinical Nurse Specialist,2.0,74.0,254.0
+34,Medical Oncology,2.0,53.0,1001.0
+35,Student in an Organized Health Care Education/Training Program,2.0,74.0,104.0
+36,Cardiac Electrophysiology,2.0,98.0,183.0
+37,Allergy/Immunology,2.0,74.0,370.0
+38,Neurosurgery,1.0,17.0,36.0
+39,Osteopathic Manipulative Medicine,1.0,30.0,44.0
+40,Specialist,1.0,23.0,60.0
+41,Neuropsychiatry,1.0,19.0,74.0
+42,Oral Surgery (dentists only),1.0,7.0,8.0
+43,Critical Care (Intensivists),1.0,28.0,178.0
+44,Personal Emergency Response Attendant,0.0,1.0,1.0
+45,Plastic and Reconstructive Surgery,0.0,4.0,10.0
+46,Hematology,0.0,10.0,249.0
+47,Maxillofacial Surgery,0.0,2.0,2.0
+48,Surgical Oncology,0.0,1.0,5.0
+49,Orthopaedic Surgery,0.0,2.0,3.0
+50,Diagnostic Radiology,0.0,9.0,27.0
+51,Clinical Psychologist,0.0,2.0,4.0
+52,Thoracic Surgery,0.0,6.0,9.0
+53,Colorectal Surgery (formerly proctology),0.0,2.0,13.0
+54,Cardiac Surgery,0.0,13.0,15.0
+55,Hospice and Palliative Care,0.0,7.0,16.0
+56,Family Medicine,0.0,12.0,19.0
+57,Nuclear Medicine,0.0,4.0,5.0
+58,Peripheral Vascular Disease,0.0,2.0,2.0
+59,Unknown Physician Specialty Code,0.0,1.0,21.0
+60,Licensed Clinical Social Worker,0.0,0.0,1.0
+61,Addiction Medicine,0.0,4.0,15.0
+62,Sports Medicine,0.0,3.0,5.0
+63,Case Manager/Care Coordinator,0.0,0.0,1.0
+64,Community Health Worker,0.0,1.0,1.0
+65,Health Maintenance Organization,0.0,1.0,1.0
+66,Psychologist (billing independently),0.0,2.0,5.0
+67,Naturopath,0.0,1.0,2.0
+68,Plastic Surgery,0.0,0.0,1.0
+69,Independent Medical Examiner,0.0,0.0,0.0
+70,"Neuromusculoskeletal Medicine, Sports Medicine",0.0,0.0,1.0
+71,Counselor,0.0,1.0,3.0
+72,Marriage & Family Therapist,0.0,0.0,0.0
+73,"Emergency Medical Technician, Intermediate",0.0,0.0,0.0
+74,Acupuncturist,0.0,0.0,0.0
+75,Homeopath,0.0,0.0,0.0
+76,Radiology,0.0,0.0,0.0
+77,Hospital (Dmercs Only),0.0,0.0,1.0
+78,Thoracic Surgery (Cardiothoracic Vascular Surgery),0.0,0.0,1.0
+79,Adult Companion,0.0,0.0,0.0
+80,Military Health Care Provider,0.0,0.0,0.0
+81,Behavioral Analyst,0.0,0.0,0.0
+82,Clinical Neuropsychologist,0.0,0.0,0.0
+83,Social Worker,0.0,0.0,0.0
+84,Technician/Technologist,0.0,0.0,0.0
+85,Public Health Welfare Agency,0.0,0.0,1.0
+86,Naprapath,0.0,0.0,0.0
+87,Centralized Flu,0.0,0.0,0.0
+88,Military Hospital,0.0,0.0,0.0
+89,Mechanotherapist,0.0,0.0,0.0
+90,Prosthetist,0.0,0.0,0.0
+91,Religious Nonmedical Nursing Personnel,0.0,0.0,0.0
+92,Rehabilitation Counselor,0.0,0.0,0.0
+93,"Residential Treatment Facility, Emotionally Disturbed Children",0.0,0.0,0.0
+94,Community/Behavioral Health,0.0,0.0,0.0
+95,Denturist,0.0,0.0,0.0
+96,Occupational Therapy Assistant,0.0,0.0,0.0
+97,Pediatrics,0.0,0.0,0.0
+98,Massage Therapist,0.0,0.0,0.0
+99,Registered Dietician/Nutrition Professional,0.0,0.0,0.0
+100,Nurse's Aide,0.0,0.0,0.0
+101,Optician,0.0,0.0,0.0
+102,"Spec/Tech, Cardiovascular",0.0,0.0,0.0
+103,Specialist/Technologist,0.0,0.0,0.0
+104,Substance Abuse Rehabilitation Facility,0.0,0.0,0.0
+105,"Respiratory Therapist, Certified",0.0,0.0,0.0
+106,Pharmacy Technician,0.0,0.0,0.0
+107,Physical Therapy Assistant,0.0,0.0,0.0
+108,Doula,0.0,0.0,0.0
+109,SNF (Dmercs Only),0.0,0.0,0.0
+110,Preventive Medicine,0.0,14.0,32.0
+111,Pharmacist,0.0,19.0,59.0
+112,Vascular Surgery,0.0,15.0,18.0
+113,Legal Medicine,0.0,3.0,4.0
+114,Radiation Oncology,0.0,8.0,18.0
+115,Geriatric Psychiatry,0.0,8.0,23.0
+116,Gynecological/Oncology,0.0,4.0,11.0
+117,Oral & Maxillofacial Surgery,0.0,0.0,0.0
+118,Registered Nurse,0.0,12.0,33.0
+119,Surgery,0.0,0.0,0.0
+120,Hand Surgery,0.0,2.0,3.0
+121,Certified Nurse Midwife,0.0,2.0,4.0
+122,Contractor,0.0,0.0,0.0
+123,Obstetrics & Gynecology,0.0,0.0,0.0
+124,Multispecialty Clinic/Group Practice,0.0,4.0,9.0
+125,Driver,0.0,2.0,1.0
+126,Rehabilitation Agency,0.0,0.0,1.0
+127,"Medical Genetics, Ph.D. Medical Genetics",0.0,2.0,2.0
+128,Interventional Cardiology,0.0,1.0,1.0
+129,Pathology,0.0,2.0,6.0
+130,Clinic/Center,0.0,7.0,10.0
+131,Sleep Medicine,0.0,3.0,15.0
+132,Hospitalist,0.0,3.0,4.0
+133,Interventional Radiology,0.0,2.0,4.0
+134,Unknown Supplier/Provider,0.0,0.0,1.0
+135,Midwife,0.0,0.0,0.0
+136,Licensed Practical Nurse,0.0,1.0,2.0
+137,Chronic Disease Hospital,0.0,0.0,0.0
+138,Chiropractic,0.0,0.0,1.0
+139,Rehabilitation Practitioner,0.0,0.0,0.0
+140,Neurological Surgery,0.0,0.0,1.0
+141,Respite Care,0.0,0.0,1.0
+142,General Acute Care Hospital,0.0,0.0,0.0
+143,CRNA,0.0,1.0,3.0
+144,Dental Hygienist,0.0,0.0,0.0
+145,Colon & Rectal Surgery,0.0,0.0,0.0
+146,Medical Genetics,0.0,0.0,3.0
+147,Phlebology,0.0,0.0,0.0
+148,Chore Provider,0.0,0.0,0.0
+149,Psychologist,0.0,0.0,0.0
+150,Preferred Provider Organization,0.0,0.0,0.0
+151,Electrodiagnostic Medicine,0.0,0.0,0.0
+152,"Emergency Medical Technician, Basic",0.0,0.0,0.0
+153,Speech Language Pathologist,0.0,0.0,0.0
+154,Clinical Pharmacology,0.0,0.0,0.0
+155,Physical Therapist,0.0,0.0,0.0
+156,Psychoanalyst,0.0,0.0,0.0
+157,Licensed Psychiatric Technician,0.0,0.0,0.0
+158,Home Health Aide,0.0,0.0,0.0
+159,Dental Assistant,0.0,0.0,0.0
+160,Licensed Vocational Nurse,0.0,0.0,0.0
+161,"Genetic Counselor, MS",0.0,0.0,0.0
+162,Point of Service,0.0,0.0,0.0
+163,Exclusive Provider Organization,0.0,0.0,0.0
+164,"Spec/Tech, Pathology",0.0,0.0,0.0
+165,Occupational therapist,0.0,0.0,0.0
+166,"Specialist/Technologist, Other",0.0,0.0,0.0
+167,Nutritionist,0.0,0.0,0.0
+168,Physical Medicine & Rehabilitation,0.0,0.0,0.0
+169,Ambulatory Surgical Center,0.0,0.0,0.0
+170,Radiology Practitioner Assistant,0.0,0.0,0.0
+171,Case Management,0.0,0.0,0.0
+172,Slide Preparation Facility,0.0,0.0,0.0
+173,Anesthesiologist Assistants,0.0,0.0,0.0
+174,Technician,0.0,0.0,0.0
+175,Pharmacy,0.0,0.0,0.0
+176,Audiologist (billing independently),0.0,0.0,0.0
+177,Durable Medical Equipment & Medical Supplies,0.0,0.0,0.0
+178,Radiologic Technologist,0.0,0.0,0.0
+179,"Lactation Consultant, Non-RN",0.0,0.0,0.0
+180,Clinical Medical Laboratory,0.0,0.0,0.0
+181,"Emergency Medical Technician, Paramedic",0.0,0.0,0.0
+182,Hearing Instrument Specialist,0.0,0.0,0.0
+183,Mass Immunization Roster Biller,0.0,0.0,0.0
+184,Psychiatric Residential Treatment Facility,0.0,0.0,0.0
+185,Dental Laboratory Technician,0.0,0.0,0.0
+186,"Nursing Facility, Other (Dmercs Only)",0.0,0.0,0.0
+187,Recreation Therapist,0.0,0.0,0.0
+188,"Medical Supply Company, Other",0.0,0.0,0.0
+189,Health Educator,0.0,0.0,0.0
